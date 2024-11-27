@@ -1090,8 +1090,8 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 - Snapshots, state-sync: https://services.stake-town.com/home/mainnet/celestia/sync
 
 Consensus node for DA Bridge nodes:
-- core RPC: http://celestia-consensus.stake-town.com:34657
-- core gRPC: http://celestia-consensus.stake-town.com:9890
+- core RPC: http://celestia-consensus.stake-town.com:26657
+- core gRPC: http://celestia-consensus.stake-town.com:9090
 
 Pruned node API:
 - pruned RPC: https://celestia-pruned-rpc.stake-town.com:443
